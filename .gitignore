@@ -1,0 +1,18 @@
+# Directorios de salida y archivos de construcción
+build/
+dist/
+nbproject/private/
+build.xml
+
+# Archivos de configuración de NetBeans
+nbproject/project.properties
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+nbproject/configs/
+
+# Archivos de copia de seguridad
+*.bak
+
+# Archivos y directorios específicos del IDE
+nbproject/*.xml
+nbproject/*.xml~
